@@ -2,7 +2,7 @@
 
 A standalone, interactive browser game of Rock Paper Scissors where you face off against an RNG-based computer opponent. 
 
-**🌟 Play it live here:** [Click to view the Live Demo](https://Penguatix.github.io/RockPaperScissors/)
+**🌟 Play it live here:** [Click to view the Live Demo](https://penguatix.github.io/Rock-Paper-Scissors/)
 
 ## 🚀 About This Project
 This project brings the classic hand game to the web. It features a fully functional game loop with dynamic DOM updates, real-time score tracking, and conditional color-coded feedback based on match results.
